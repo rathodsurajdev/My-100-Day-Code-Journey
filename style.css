@@ -23,3 +23,7 @@ body {
 .day-button {
     margin: 5px;
 }
+
+.container{
+    padding-bottom:60px;
+}
